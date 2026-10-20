@@ -1,0 +1,1 @@
+{"private":true,"type":"module","scripts":{"test":"node database.mjs && node ui.mjs && node client.mjs && node offline-regression.mjs"},"dependencies":{"@electric-sql/pglite":"0.5.10","jsdom":"30.1.3"}}
